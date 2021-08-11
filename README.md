@@ -30,3 +30,7 @@
 * Sum of sizes of these two files will be smaller than the original file
 * Now to decompress put those two files at same location and then select that "file_name.bin" file through browse button
 * Finally click on decompress button which will generate "file_name_decompressed.txt"
+
+##Development
+* Implemented algorithm in Python
+* Build Gui using Tkinter
