@@ -1,5 +1,11 @@
 # Huffman-Text-Compression-Decompression
 
+## Demo
+### Compression
+![HuffmanCompressionDemo](https://user-images.githubusercontent.com/73168961/129173957-4f8a54c2-5d93-4732-8d04-528de143ace4.gif)
+### Decompression
+![HuffmanDecompressDemo](https://user-images.githubusercontent.com/73168961/129174013-9e6214f0-87db-422c-b3bf-d7b9626d4493.gif)
+
 ## Introduction
 * Text files can be compressed and decompressed 
 * Implementation of lossless text compression and decompression using Huffman Coding
